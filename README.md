@@ -1,4 +1,4 @@
-Pressure for Steam
+Pressure for Steam Sex
 ==================
 
 Pressure is a skin for Valve's Steam client that seeks to improve the visuals and aesthetics of Steam beyond the default skin. 
